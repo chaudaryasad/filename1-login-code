@@ -1,2 +1,2 @@
 # filename1-login-code
-im goin to change bit in code.
+im going to change bit in code.
